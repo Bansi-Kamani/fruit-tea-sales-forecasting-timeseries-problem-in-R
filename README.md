@@ -1,9 +1,6 @@
 # fruit-tea-sales-forecasting-timeseries-problem-in-R
-Fruit tea sales analysis and forecasting
 
-# Fruit Tea Sales Analysis, Forecasting & Time Series in R
-
-**Course:** BMAN71791 Applied Statistics and Business Forecasting
+**Course:** Applied Statistics and Business Forecasting
 **University:** University of Manchester
 **Author:** Bansi Kamani
 
